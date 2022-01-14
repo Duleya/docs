@@ -1,4 +1,5 @@
----
+-@ ❖❖ᗩᑎᗩᗷᗴᒪ-Z❖❖ whatsapp bot ➜🇱🇰
+owner by Duleya--
 title: Managing Git LFS objects in archives of your repository
 shortTitle: 'Managing {% data variables.large_files.product_name_short %} objects in archives'
 intro: 'You can choose whether {% data variables.large_files.product_name_long %} ({% data variables.large_files.product_name_short %}) objects are included in source code archives, such as ZIP files and tarballs, {% data variables.product.product_name %} creates for your repository.'
